@@ -2,7 +2,7 @@
 
 
 
-## <a name="aboutme">ABOUT ME</a>
+## <a name="aboutme">About me</a>
 
 <p>I am a product data operator with five years experience in e-commerce who decided it was <b>time for a change in life!</b>
 I was looking for a job that would allow me to <b>grow and use my talents</b>, so I decided to become a QA Manual Tester!</p>
@@ -13,7 +13,7 @@ I was looking for a job that would allow me to <b>grow and use my talents</b>, s
 
 ## <a name="project">Project</a>
 
-- [GoIT Polska] (https://goit.global/pl/courses/qa/) - [Portfolio]
+- [GoIT Polska] (https://goit.global/pl/courses/qa/) - (https://github.com/MaciejSwietochowski/YUMMY_Project)
 
 # Courses
 
