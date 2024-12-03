@@ -13,7 +13,7 @@ I was looking for a job that would allow me to <b>grow and use my talents</b>, s
 
 ## <a name="project">Project</a>
 
-- [GoIT Polska] (https://goit.global/pl/courses/qa/) - (https://github.com/MaciejSwietochowski/YUMMY_Project)
+- [GoIT Polska - Yummy Project] - (https://github.com/MaciejSwietochowski/YUMMY_Project)
 
 # Courses
 
