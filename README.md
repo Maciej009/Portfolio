@@ -13,14 +13,14 @@ I was looking for a job that would allow me to <b>grow and use my talents</b>, s
 
 ## <a name="project">Project</a>
 
-- [GoIT Polska - Yummy Project] - (https://github.com/MaciejSwietochowski/YUMMY_Project)
+- [GoIT Polska - Yummy Project](https://github.com/MaciejSwietochowski/YUMMY_Project)
 
 # Courses
 
-- [GoIT Polska] (https://goit.global/pl/courses/qa/)
-- [SQL w 120 minut] (https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
-- [SQL dla testerów oprogramowania] (https://www.udemy.com/course/sql-dla-testerow-oprogramowania/)
-- [Postman - testowanie REST API] (https://www.udemy.com/course/kurs-postman/)
+- [GoIT Polska](https://goit.global/pl/courses/qa/)
+- [SQL w 120 minut](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
+- [SQL dla testerów oprogramowania](https://www.udemy.com/course/sql-dla-testerow-oprogramowania/)
+- [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/)
 
 
 ## <a name="skills">Skills</a>
