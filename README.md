@@ -37,23 +37,24 @@ I was looking for a job that would allow me to <b>grow and use my talents</b>, s
 ## 🧠 <a name="skills">Skills</a>
 
     
-   **HARD SKILLS:**
+**HARD SKILLS:**
     
-   - knowledge of testing procedures and creation test documentation
-   - SQL knowledge
-   - API knowledge
-   - HTML/CSS basics knowledge
-   - PIM knowledge
-   - Adafir knowledge
+- Designing test documentation
+- Bug reporting
+- SQL knowledge
+- API knowledge
+- HTML/CSS basics knowledge
+- PIM knowledge
+- Adafir knowledge
  
-   **SOFT SKILLS:**
+**SOFT SKILLS:**
 
-   - Communication skills
-   - Analytical thinking
-   - Accuracy
-   - Working under time pressure
-   - Flexibility
-   - Delivery methodologies (agile, waterfall, v-model)
+- Communication skills
+- Analytical thinking
+- Accuracy
+- Working under time pressure
+- Flexibility
+- Delivery methodologies (agile, waterfall, v-model)
 
  
 
